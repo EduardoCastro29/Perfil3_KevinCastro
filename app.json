@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Evaluación Móvil",
+    "slug": "Evaluación Móvil",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/LogoMasterBall.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/LogoMasterBall.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/LogoMasterBall.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/LogoMasterBall.jpg"
+    }
+  }
+}
